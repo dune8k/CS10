@@ -41,46 +41,6 @@
         "name": "IPTVPlayer"
     },
     {
-        "iconUrl": "https://play-lh.googleusercontent.com/IaCb2JXII0OV611MQ-wSA8v_SAs9XF6E3TMDiuxGGXo4wp9bI60GtDASIqdERSTO5XU",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 25447,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "TvSeries,AsianDrama"
-        ],
-        "version": 8,
-        "internalName": "Kissasian",
-        "description": "Includes DramaCool,KissAsian,KissAsian V2",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Kissasian.cs3",
-        "name": "Kissasian"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 23234,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Phisher98"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 18,
-        "internalName": "MultiMoviesProvider",
-        "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
-        "name": "MultiMoviesProvider"
-    },
-    {
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
