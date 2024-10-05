@@ -1,0 +1,8 @@
+{
+    "name": "CS10-All",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/dune8k/CS10/refs/heads/main/plugins2.json","https://codeberg.org/tearrs/cloudstream-vietnamese/raw/branch/main/plugins.json","https://codeberg.org/tearrs/cloudstream-vietnamese-nsfw/raw/branch/main/plugins.json","https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/plugins.json"
+    ]
+}
