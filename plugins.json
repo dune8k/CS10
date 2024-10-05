@@ -1,4 +1,68 @@
  [
+   {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.stremio.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions",
+        "fileSize": 21021,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Cloudburst"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "StremioProvider",
+        "description": "Allows you to use stremio addons. Requires setup. (Torrents and old api does not work)",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/StremioProvider.cs3",
+        "name": "StremioProvider"
+    },
+  {
+        "iconUrl": "https://vadapav.mov/assets/favicon-32x32.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 13851,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "VadaPav",
+        "description": "Contains Movies, TV Series and Anime upto 4K",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VadaPav.cs3",
+        "name": "VadaPav"
+    },
+   {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 333969,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "KillerDogeEmpire",
+            "Code"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "CodeStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
+        "name": "CodeStream"
+    },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
         "apiVersion": 1,
@@ -61,4 +125,105 @@
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
     }
+  [
+    {
+         "iconUrl": "https://phimmoichillv.net/favicon.ico",
+         "apiVersion": 1,
+         "repositoryUrl": "https://discord.gg/DE5qTq42RG",
+         "fileSize": 15135,
+         "status": 1,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 2,
+        "internalName": "Phimchill",
+        "description": "Nguồn từ phimmoichill",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/PhimchillProvider.cs3",
+        "name": "Phimchill"
+    },
+      {
+         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
+         "apiVersion": 1,
+         "repositoryUrl": "https://discord.gg/DE5qTq42RG",
+         "fileSize": 15135,
+         "status": 1,
+         "language": "vi",
+         "authors": [
+             "ntd"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 2,
+        "internalName": "Motchill",
+        "description": "Nguồn từ Motchill. Cần sử dụng app vlc để xem",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/MotchillProvider.cs3",
+        "name": "Motchill"
+    },    {
+         "iconUrl": "https://phimfun.com/static/favicons/favicon-32x32.png",
+         "apiVersion": 1,
+         "repositoryUrl": "https://discord.gg/DE5qTq42RG",
+         "fileSize": 15135,
+         "status": 0,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie"
+         ], 
+        "version": 1,
+        "internalName": "Phimfun",
+        "description": "Nguồn từ Phimfun",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/PhimfunProvider.cs3",
+        "name": "Phimfun"
+    },
+ 
+     {
+         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNMf1CQNn77dy5htMMnaq1TT3fzOJ9_OUFNciw01rTzBK9RXp7q6iKVL-DOfdzs2eSmvQ&usqp=CAU",
+         "apiVersion": 1,
+         "repositoryUrl": "https://discord.gg/DE5qTq42RG",
+         "fileSize": 19135,
+         "status": 0,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie","Anime"
+         ], 
+        "version": 1,
+        "internalName": "Anime47",
+        "description": "Nguồn từ Anime47",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/Anime47Provider.cs3",
+        "name": "Anime47"
+    },
+    
+   
+     {
+         "iconUrl": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/176311/Originals/iptv-la-gi-1.jpg",
+         "apiVersion": 1,
+         "repositoryUrl": "https://discord.gg/DE5qTq42RG",
+         "fileSize": 27135,
+         "status": 1,
+         "language": "vi",
+         "authors": [
+             "HaiGH-Space"
+         ],
+         "tvTypes": [
+             "Movie","Live"
+         ], 
+        "version": 1,
+        "internalName": "IPTV",
+        "description": "IPTV(Tự thêm source), Dùng VLC nếu xem không được",
+        "url": "https://codeberg.org/HaiGH-Space/AddonVN/raw/branch/main/IPTVProvider.cs3",
+        "name": "IPTV"
+    }
+    
+    
+]
       ]
