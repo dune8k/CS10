@@ -124,8 +124,8 @@
         "description": "Indian Multi-language 4K Provider",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
-    }
-  [
+    },
+  
     {
          "iconUrl": "https://phimmoichillv.net/favicon.ico",
          "apiVersion": 1,
