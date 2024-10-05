@@ -1,0 +1,8 @@
+{
+    "name": "CS10-FSHARE",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/dune8k/CS10/refs/heads/main/plugins2.json"
+    ]
+}
